@@ -1,1 +1,3 @@
-# Criação de azure function com typescript
+# Azure function
+
+Linguagem utlizada : TypeScript
